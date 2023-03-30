@@ -22,15 +22,16 @@
 
 ## Contributing
 
--- Santiago Yanguas - Holberton Student
+-- Alexander Takele Mengesha - ALX SWE Student
 
 ## Versioning
 
-For my learning of backend web dev in Holberton School
+For my learning of backend web dev in alx SWE School
 
 ## Authors
 
----Santiago Yanguas 946@holbertonshcool.com
+---Alexander Takele  www.linkedin.com/in/alextakele
+
 
 ## Files
 
