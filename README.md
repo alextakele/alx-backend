@@ -1,14 +1,10 @@
-<p>
-<img width="260" height="170" src="https://www.flaticon.es/svg/static/icons/svg/1432/1432571.svg" align="right" >
-</p>
-
-# :colombia: 0x04. Pagination
+## 0x04. Pagination
 
 - How to paginate a dataset with simple page and page_size parameters
 - How to paginate a dataset with hypermedia metadata
 - How to paginate in a deletion-resilient manner
 
-## Prerequisites
+## Specific Objective
 
 - All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7)
 - All your files should end with a new line
@@ -22,23 +18,9 @@
 
 ## Contributing
 
--- Alexander Takele Mengesha - ALX SWE Student
-
-## Versioning
-
-For my learning of backend web dev in alx SWE School
+#Alexander Takele Mengesha - alx Software engineer
 
 ## Authors
+## Software engineer
+[Alexander Takele Mengesha](https://www.linkedin.com/in/alextakele/)
 
----Alexander Takele  www.linkedin.com/in/alextakele
-
-
-## Files
-
-| Files                                         | Description                              |
-| --------------------------------------------- | ---------------------------------------- |
-| **main.py, 0-simple_helper_function.py**      | Simple helper function                   |
-| **1-main.py, 1-simple_pagination.py**         | Simple pagination                        |
-| **2-main.py, 2-hypermedia_pagination.py**     | Hypermedia pagination                    |
-| **3-main.py, 3-hypermedia_del_pagination.py** | Deletion-resilient hypermedia pagination |
-| **Popular_Baby_Names.csv**                    | Dataset                                  |
