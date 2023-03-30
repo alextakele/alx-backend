@@ -27,4 +27,4 @@
 * [ ] 13. Can I have a seat?
 
 ## Software engineer
-[Alexander Takele Mengesha](www.linkedin/in/alextakele)
+[Alexander Takele Mengesha](www.linkedin.com/in/alextakele)
