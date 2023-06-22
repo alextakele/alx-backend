@@ -18,3 +18,5 @@ keys.forEach((key, index) => {
 client.hgetall(MAIN_KEY, (error, value) => {
   console.log(value);
 });
+
+
