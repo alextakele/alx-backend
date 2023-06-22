@@ -30,4 +30,3 @@ describe('createPushNotificationsJobs', () => {
     expect(() => createPushNotificationsJobs(job, queue)).to.throw(Error, 'Jobs is not an array');
   });
 });
-
