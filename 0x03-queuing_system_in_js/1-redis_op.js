@@ -18,6 +18,7 @@ function displaySchoolValue(schoolName) {
     }
     console.log(result);
   });
+  
 }
 
 displaySchoolValue('Holberton');
