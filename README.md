@@ -18,7 +18,7 @@
 
 ## Contributing
 
-#Alexander Takele Mengesha - alx Software engineer
+## Alexander Takele Mengesha - alx Software Engineer
 
 ## Authors
 ## Software engineer
